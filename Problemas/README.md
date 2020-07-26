@@ -1,4 +1,4 @@
-# O-Up
+# Omega-Up
 ---------
 ## Operadores Aritméticos
 ---------
